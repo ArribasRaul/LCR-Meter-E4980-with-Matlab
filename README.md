@@ -35,6 +35,3 @@ To run this project, you need the following:
 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
-
-## License
-These projects are open-source and available under the [MIT License](LICENSE).
